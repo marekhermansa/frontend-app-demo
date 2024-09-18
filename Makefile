@@ -37,7 +37,7 @@ pull_translations:
 	            translations/frontend-platform/src/i18n/messages:frontend-platform \
 	            translations/paragon/src/i18n/messages:paragon \
 	            translations/frontend-component-footer/src/i18n/messages:frontend-component-footer \
-	            translations/frontend-component-header/src/i18n/messages:frontend-component-header \
+	            translations/frontend-component-header/src/i18n/messages:frontend-component-header
 
 	$(intl_imports) frontend-platform paragon frontend-component-header frontend-component-footer
 
